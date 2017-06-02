@@ -70,7 +70,7 @@ body {
 }
 
 .forma {
-	margin: 0 60px;
+	margin: 0 0;
 }
 
 .infoo{
@@ -93,8 +93,10 @@ body {
     }
     .infoo {
     	width: 350px;
+	    padding: 10px;
     }
     .title {
     	font-size: 28px;
+	    margin-top:15px;
     }
 }
